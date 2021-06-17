@@ -1,0 +1,7 @@
+HCS301	KEYWORD1
+
+transmit	KEYWORD2
+receive	KEYWORD2
+rollingCode	KEYWORD2
+serialNr	KEYWORD2
+message	KEYWORD2
